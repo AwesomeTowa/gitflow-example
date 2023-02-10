@@ -2,7 +2,7 @@
 
 ![Screenshot_1](https://user-images.githubusercontent.com/91306218/218127890-9aea3f64-b85c-47c1-a881-35d9f62e95d1.png)
 
-## rules
+## gitflow rules
 
 1. Создать репозиторий и клонировать его на компьютер
 2. Создать ветку разработки develop от главной ветки (master, main)
